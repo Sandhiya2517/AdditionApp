@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AdditionApp</string>
+    <string name="addition_title">Addition of Two Numbers</string>
+    <string name="hint_enter_first_number">Enter First Number</string>
+    <string name="hint_enter_second_number">Enter Second Number</string>
+    <string name="btn_add">ADD</string>
+    <string name="hint_result">Result</string>
+    <string name="error_enter_both_numbers">Enter both numbers</string>
+</resources>
